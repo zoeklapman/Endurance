@@ -1,0 +1,24 @@
+2.1: This product can be used easily among children or people learning how to program. Yes, the product independent and self-contained as 
+it doesn't need anything else to run and is it's own program. Yes, this product interacts with a robot that is paired via bluetooth. The program will send the block code you have input and send it to the robot. 
+The robot will then execute the code and the result is the robot changing led colors, turning, moving around, etc.
+
+2.2: User Characteristics
+
+      College Student:
+	Expereience: Little to none
+	Tehcnical expertise: Has worked in a computer repair shop
+	Other: Has been in a few programming classes in high school but isn't very skilled in any specific language
+
+      Teacher:
+	Experience: Years of using this product or similar
+	Technical expertise: Has years of experience working with computers and softwares
+	Other: Has many years of experience and knows the ins and outs of many languages
+
+      Middle School Student:
+	Experience: None with any language
+	Technical experience: None
+	Other: Has a strong desire to learn how to build programs
+
+2.3: Assumptions:
+	A sphero compatable robot is needed to test the code
+	Must know very basic programming in order to use the product
