@@ -22,3 +22,31 @@ The robot will then execute the code and the result is the robot changing led co
 2.3: Assumptions:
 	A sphero compatable robot is needed to test the code
 	Must know very basic programming in order to use the product
+	
+	2.4: Constraints:
+	The biggest constraint is working with block code as in inherently doesn't have the flexibility of text code, but the program does a good job with the variety of commands it gives.
+	However, when it came to running tests everything went smoothly and there were no issues with software.
+
+2.5: Dependencies:
+	Somebody in the group needs to know how to use the block code in order for anything to happen
+	The robot needs the block code in order to function
+	Measurements of the track are needed for the robot to follow or room HH208 needs to be reserved by a group member
+	Bluetooth and WiFi is needed in order for the robot to function
+
+3.2.1: Protection:
+	Actively saving your progress and making sure nobody but trusted group members has access to your account can help prevent tampering and destruction.
+	Also, making sure you close the program whenever necessary is important, as leaving your computer open while not close by can invite people with malicious intent
+	to disturb your work.
+
+3.2.2: Authorization and Authentication:
+	The authentication for this project is the use of a password that protects the code from anyone that does not have explicit access. 
+	Authorization for this project includes commits to the GitHub repository as adjustments can be made there to files if needed.
+
+3.3: Portability:
+	The code is a shared file on GitHub, so as long as the requirements are met anyone can have the same outcome as long as the block code is written the same
+	As long as the operating system is recent and up to date, the sphero program can be used. 
+
+4. Requirements Confirmation/Stakeholder sign-off
+	11/22/2020
+	Zoe(COO), Keven(PM), Maryam(PM)
+	We reviewed all the requirements and confirmed them together
