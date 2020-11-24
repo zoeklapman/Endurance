@@ -23,7 +23,7 @@ The robot will then execute the code and the result is the robot changing led co
 	A sphero compatable robot is needed to test the code
 	Must know very basic programming in order to use the product
 	
-	2.4: Constraints:
+2.4: Constraints:
 	The biggest constraint is working with block code as in inherently doesn't have the flexibility of text code, but the program does a good job with the variety of commands it gives.
 	However, when it came to running tests everything went smoothly and there were no issues with software.
 
